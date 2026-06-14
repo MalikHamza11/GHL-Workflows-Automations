@@ -6,7 +6,7 @@ A portfolio showcasing GoHighLevel CRM systems, workflow automations, pipeline a
 
 📄 View Portfolio PDF
 
-[AI (1).pdf](./AI%20%281%29.pdf)
+(./Workflows-Automations-Pipelines.pdf)
 
 ## Expertise
 
