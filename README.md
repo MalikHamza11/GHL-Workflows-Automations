@@ -12,7 +12,7 @@ My approach focuses on clean architecture, dedicated workflows, scalable automat
 
 📄 **View Portfolio**
 
-/Workflows-Automations-Pipelines.pdf
+GHL-Workflows-Automations/Workflows-Automations-Pipelines.pdf
 
 ## Core Expertise
 
