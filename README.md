@@ -1,14 +1,20 @@
 # GoHighLevel Workflows & Automations
 
-A portfolio showcasing GoHighLevel CRM systems, workflow automations, pipeline architectures, and business process optimization solutions built for service-based businesses.
+Portfolio of GoHighLevel workflows, automations, pipeline architectures, and scalable CRM systems built for service-based businesses.
+
+## About
+
+I specialize in building structured CRM systems, workflow automations, lead nurturing sequences, and pipeline management solutions inside GoHighLevel.
+
+My approach focuses on clean architecture, dedicated workflows, scalable automation logic, and long-term maintainability.
 
 ## Portfolio
 
-📄 View Portfolio PDF
+📄 **View Portfolio**
 
-Workflows-Automations-Pipelines.pdf
+/Workflows-Automations-Pipelines.pdf
 
-## Expertise
+## Core Expertise
 
 • Workflow Automation
 
@@ -18,9 +24,11 @@ Workflows-Automations-Pipelines.pdf
 
 • Lead Nurturing Sequences
 
+• Lead Distribution & Routing
+
 • Appointment Booking Automation
 
-• Power Dialer Workflows
+• Power Dialer Pipelines
 
 • CRM Architecture & Organization
 
@@ -28,24 +36,39 @@ Workflows-Automations-Pipelines.pdf
 
 ## Industries Served
 
-HVAC
+• HVAC
 
-Roofing
+• Roofing
 
-Plumbing
+• Plumbing
 
-Construction
+• Construction
 
-Property Services
+• Home Services
 
-Home Services
+• Property Services
 
-Professional Services
+• Professional Services
 
-## Approach
+## Workflow Philosophy
 
-Every system is built using a clean, scalable architecture with dedicated workflows, structured pipeline management, and clear automation logic designed for long-term growth.
+• Pipeline-Driven Architecture
+
+• Dedicated Workflows Per Stage
+
+• Minimal Tag Dependency
+
+• Clean Naming Conventions
+
+• Organized Folder Structures
+
+• Scalable Automation Logic
+
+• Easy-to-Maintain Systems
 
 ---
+
+**Malik H.**
+GoHighLevel Specialist | CRM Automation Builder | Workflow Architect
 
 Building systems that scale businesses, not just automations that send messages.
